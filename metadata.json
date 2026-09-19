@@ -1,0 +1,6 @@
+{
+  "name": "PackSure AI – Legal Metrology Compliance Intelligence Platform",
+  "description": "Evidence-driven AI compliance screening, product digital twins, label change detection, and explainable legal metrology rule mapping for packaged commodities.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@keyframes scanLaser {
+  0% {
+    top: 6%;
+    opacity: 0.8;
+  }
+  50% {
+    top: 90%;
+    opacity: 1;
+  }
+  100% {
+    top: 6%;
+    opacity: 0.8;
+  }
+}
